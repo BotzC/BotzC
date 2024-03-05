@@ -28,5 +28,7 @@
 ---
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://readme-mauve.vercel.app/api?username=BotzC&show_icons=true&theme=prussian" />
 ---
+
 [![Top Langs](https://readme-mauve.vercel.app/api/top-langs/?username=BotzC)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://readme-mauve.vercel.app/api/top-langs/?username=BotzC&layout=compact)
+
+[![Top Langs](https://readme-mauve.vercel.app/api/top-langs/?username=BotzC&layout=compact)]
