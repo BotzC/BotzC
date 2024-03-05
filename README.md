@@ -28,4 +28,4 @@
 ---
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://readme-mauve.vercel.app/api?username=BotzC&show_icons=true&theme=prussian" />
 
-[![website](./img/deno-light.svg)](https://codestackr.com#gh-light-mode-only)
+[![Top Langs](https://readme-mauve.vercel.app/api/top-langs/?username=BotzC)](https://github.com/anuraghazra/github-readme-stats)
