@@ -31,3 +31,5 @@
 <br/>
 
 ![Top Langs](https://readme-mauve.vercel.app/api/top-langs/?username=BotzC&layout=compact)
+
+[![Readme Card](https://readme-mauve.vercel.app/api/pin/?username=BotzC&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
