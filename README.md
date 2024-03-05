@@ -1,5 +1,11 @@
 # Hi Everyone I’m @BotzC 👋 
 
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://readme-mauve.vercel.app/api?username=BotzC&show_icons=true&theme=prussian" />
+
+<br/>
+
+![Top Langs](https://readme-mauve.vercel.app/api/top-langs/?username=BotzC&layout=compact)
+
 ---
 ### Connect with me:
 
@@ -19,9 +25,5 @@
 [![website](./img/instagram-dark.svg)](https://github.com/BotzC#gh-dark-mode-only)
 
 ---
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://readme-mauve.vercel.app/api?username=BotzC&show_icons=true&theme=prussian" />
 
-<br/>
-
-![Top Langs](https://readme-mauve.vercel.app/api/top-langs/?username=BotzC&layout=compact)
 
