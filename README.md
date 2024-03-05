@@ -25,11 +25,5 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
-### Languages:
-
-[<img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" />]
-[![website](./img/deno-light.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />]
-
 ---
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://readme-mauve.vercel.app/api?username=BotzC&show_icons=true&theme=prussian" />
