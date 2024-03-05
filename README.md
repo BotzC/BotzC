@@ -27,8 +27,8 @@
 
 ### Languages:
 
-[<img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
+[!<img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />]
+[!<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
 
 ---
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://readme-mauve.vercel.app/api?username=BotzC&show_icons=true&theme=prussian" />
