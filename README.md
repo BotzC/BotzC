@@ -1,5 +1,4 @@
 # Hi Everyone I’m @BotzC 👋 
-# Follow Me ...
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://readme-mauve.vercel.app/api?username=BotzC&show_icons=true&theme=prussian" />
 
@@ -8,6 +7,7 @@
 ![Top Langs](https://readme-mauve.vercel.app/api/top-langs/?username=BotzC&layout=compact)
 
 ---
+## Follow Me ...
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://github.com/BotzC#gh-light-mode-only)
