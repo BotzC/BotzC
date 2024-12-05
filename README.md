@@ -1,8 +1,6 @@
-# Hi Everyone I’m @BotzC 👋 
-
 # Hi 👋, I'm BotzC
 <h3 align="center">A passionate FullStack Developer from Srilanka</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=botzc&label=Profile%20views&color=0e75b6&style=flat" alt="botzc" /> </p>
@@ -19,7 +17,6 @@
 - ⚡ Fun fact **I am Funny**
 
 
-<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=botzc&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="botzc" />
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=botzc&show_icons=true&locale=en&theme=tokyonight" alt="botzc" /></p>
