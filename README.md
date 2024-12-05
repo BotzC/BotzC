@@ -16,7 +16,8 @@
 
 - ⚡ Fun fact **I am Funny**
 
-
+</br>
+</br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=botzc&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="botzc" />
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=botzc&show_icons=true&locale=en&theme=tokyonight" alt="botzc" /></p>
