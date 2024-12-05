@@ -2,8 +2,8 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=botzc&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="botzc" />
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=botzc&&theme=tokyonight" alt="botzc" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=botzc&show_icons=true&locale=en&theme=tokyonight" alt="botzc" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=botzc&&theme=tokyonight" alt="botzc" />
 
 
 ---
