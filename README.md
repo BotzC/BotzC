@@ -2,9 +2,7 @@
 
 ![Top Langs](https://readme-mauve.vercel.app/api/top-langs/?username=BotzC&layout=compact)
 </br>
-
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://readme-mauve.vercel.app/api?username=BotzC&show_icons=true&theme=prussian" />
-
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://readme-mauve.vercel.app/api?username=BotzC&show_icons=true&theme=prussian"/>
 </br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=botzc&&theme=tokyonight" alt="botzc" /></p>
 
