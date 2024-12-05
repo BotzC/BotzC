@@ -1,10 +1,9 @@
 # Hi Everyone I’m @BotzC 👋 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=botzc&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="botzc" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=botzc&&theme=tokyonight" alt="botzc" />
-</p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=botzc&show_icons=true&theme=radical)
-</p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=botzc&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="botzc" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=botzc&&theme=tokyonight" alt="botzc" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=botzc&label=Profile%20views&color=0e75b6&style=flat" alt="botzc" /> </p>
+
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=botzc&label=Profile%20views&color=0e75b6&style=flat" alt="botzc" /> </p>
