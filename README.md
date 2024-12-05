@@ -2,7 +2,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=botzc&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="botzc" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=botzc&&theme=tokyonight" alt="botzc" /></p>
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://readme-mauve.vercel.app/api?username=BotzC&show_icons=true&theme=prussian"/></br>
+<p<img align="left" alt="codeSTACKr's GitHub Stats" src="https://readme-mauve.vercel.app/api?username=BotzC&show_icons=true&theme=prussian"/>
+</p>
 
 
 ---
