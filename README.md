@@ -2,9 +2,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=botzc&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="botzc" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=botzc&&theme=tokyonight" alt="botzc" /></p>
-<p<img align="left" alt="codeSTACKr's GitHub Stats" src="https://readme-mauve.vercel.app/api?username=BotzC&show_icons=true&theme=prussian"/>
-</p>
-
+<p<img align="left" alt="codeSTACKr's GitHub Stats" src="https://readme-mauve.vercel.app/api?username=BotzC&show_icons=true&theme=prussian"/></p>
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=botzc&label=Profile%20views&color=0e75b6&style=flat" alt="botzc" /> </p>
