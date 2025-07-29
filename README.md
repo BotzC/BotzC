@@ -31,6 +31,7 @@
 ---
 
 <h3 align="center">My Statistics:</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=botzc&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 <p align="center">
 <table align="center">
 <tr border="none">
