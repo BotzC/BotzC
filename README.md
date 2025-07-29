@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **botzc@gmail.com**
   
-- ⚡ Fun fact **Call me as Botz**
+- ⚡ Fun fact **Call me as** [@BotC](https://github.com/BotzC)
 
 </td>
 <td width="50%" align="center">
